@@ -1,0 +1,43 @@
+@import "rsuite/dist/rsuite.css";
+
+/* echarts css */
+#echarts .chart-title {
+    font-size: small;
+    font-weight: bold;
+    color: #0066cc;
+  }
+  #anychart {
+    height: 25rem;
+  }
+  .anychart-credits {
+    display: none;
+  }
+
+  .no-shadow{
+    box-shadow: 0px 0px 12px rgba(0,0,0,.1);
+    border: 0;
+    border-radius: 0px;
+  }  
+
+  .listing_header{
+    border-bottom: 3px solid #f0f2f7;
+    background-color: #fff;
+    font-size: 0.857rem;
+    font-weight: 500;
+    color: #0066cc;
+  }
+
+  .loginform{
+    background-color: #00B74F;
+  }
+
+  .loginformtext{
+    color: white;
+  }
+
+  .signinbtn{
+    color:#00B74F;
+    background-color: white;
+    font-size: 1rem;
+    font-weight: 500;
+  }
